@@ -1,0 +1,16 @@
+<?php
+$empleados = [
+    "Carlos" => 3000,
+    "Ana" => 2500,
+    "Luis" => 3500,
+    "Marta" => 4000,
+    "Pedro" => 2000
+];
+
+ksort($empleados); 
+
+echo "Empleados ordenados por nombre: <br>";
+foreach ($empleados as $nombre => $salario) {
+    echo "$nombre tiene un salario de $salario.<br>";
+}
+?>

@@ -1,0 +1,11 @@
+<?php
+$paises = []; 
+$paises["España"] = "Madrid";
+$paises["Francia"] = "París";
+$paises["Italia"] = "Roma";
+
+echo "Países y capitales: <br>";
+foreach ($paises as $pais => $capital) {
+    echo "La capital de $pais es $capital.<br>";
+}
+?>

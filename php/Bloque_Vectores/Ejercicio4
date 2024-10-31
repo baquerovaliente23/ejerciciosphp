@@ -1,0 +1,10 @@
+<?php
+$colores = ["Rojo", "Verde", "Azul", "Amarillo", "Naranja"];
+unset($colores[1]); 
+$colores = array_values($colores); 
+
+echo "Colores actualizados: <br>";
+foreach ($colores as $color) {
+    echo $color . "<br>";
+}
+?>

@@ -1,0 +1,13 @@
+<?php
+$ciudades = []; 
+$ciudades[] = "Madrid";
+$ciudades[] = "Barcelona";
+$ciudades[] = "Valencia";
+$ciudades[] = "Sevilla";
+$ciudades[] = "Bilbao";
+
+echo "Ciudades: <br>";
+foreach ($ciudades as $ciudad) {
+    echo $ciudad . "<br>";
+}
+?>

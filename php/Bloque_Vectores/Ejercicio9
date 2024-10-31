@@ -1,0 +1,15 @@
+<?php
+$marcas = [
+    "Toyota" => "Japón",
+    "Ford" => "Estados Unidos",
+    "Volkswagen" => "Alemania",
+    "Peugeot" => "Francia"
+];
+
+unset($marcas["Ford"]); 
+
+echo "Marcas actualizadas: <br>";
+foreach ($marcas as $marca => $pais) {
+    echo "$marca es de $pais.<br>";
+}
+?>
