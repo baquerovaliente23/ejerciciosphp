@@ -1,5 +1,5 @@
 <?php
-$n1 = 29; // Cambia este valor según lo necesites
+$n1 = 29; 
 $isPrimo = true;
 
 if ($n1 <= 1) {

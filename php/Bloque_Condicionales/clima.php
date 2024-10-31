@@ -1,6 +1,6 @@
 <?php
-$lluvia = false; // Cambia a true para simular lluvia
-$temperatura = 22; // Cambia el valor para probar diferentes condiciones
+$lluvia = false; 
+$temperatura = 22; 
 
 if ($temperatura > 20 && !$lluvia) {
     echo "La temperatura es $temperatura y no llueve. A la playa.";

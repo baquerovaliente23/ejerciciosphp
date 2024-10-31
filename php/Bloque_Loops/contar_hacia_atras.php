@@ -1,5 +1,5 @@
 <?php
-$n1 = 10; // Cambia este valor según lo necesites
+$n1 = 10; 
 if ($n1 < 0) {
     $n1 = -$n1;
 }
