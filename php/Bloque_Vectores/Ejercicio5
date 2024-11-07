@@ -1,9 +1,0 @@
-<?php
-$deportes = ["Fútbol", "Tenis", "Baloncesto", "Natación", "Golf", "Ciclismo", "Atletismo"];
-sort($deportes); 
-
-echo "Deportes ordenados: <br>";
-foreach ($deportes as $deporte) {
-    echo $deporte . "<br>";
-}
-?>

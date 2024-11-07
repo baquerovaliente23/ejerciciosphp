@@ -1,9 +1,0 @@
-<?php
-$animales = ["Perro", "Gato", "Pájaro", "Conejo", "Tortuga"];
-$animales[2] = "Hámster"; 
-
-echo "Animales actualizados: <br>";
-foreach ($animales as $animal) {
-    echo $animal . "<br>";
-}
-?>

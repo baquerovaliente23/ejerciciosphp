@@ -1,7 +1,0 @@
-<?php
-$frutas = ["Manzana", "Banana", "Naranja", "Fresa", "Kiwi", "Mango", "Piña", "Pera", "Durazno", "Uva"];
-
-foreach ($frutas as $fruta) {
-    echo $fruta . "<br>";
-}
-?>
