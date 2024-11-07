@@ -12,7 +12,7 @@
     </style>
 </head>
 <body>
-    <h2>Marcas de Autos (Actualizado)</h2>
+    <h2>Marcas de Autos</h2>
     <table>
         <tr><th>Marca</th><th>País de Origen</th></tr>
         <?php

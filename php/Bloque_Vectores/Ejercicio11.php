@@ -12,7 +12,7 @@
     </style>
 </head>
 <body>
-    <h2>Productos y Precios (Ordenados por Precio)</h2>
+    <h2>Productos y Precios</h2>
     <table>
         <tr><th>Producto</th><th>Precio</th></tr>
         <?php

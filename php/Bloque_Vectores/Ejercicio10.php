@@ -12,7 +12,7 @@
     </style>
 </head>
 <body>
-    <h2>Empleados y Salarios (Ordenados por Nombre)</h2>
+    <h2>Empleados y Salarios</h2>
     <table>
         <tr><th>Empleado</th><th>Salario</th></tr>
         <?php

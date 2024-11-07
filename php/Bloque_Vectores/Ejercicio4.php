@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Colores Actualizados</title>
+    <title>Colores </title>
     <style>
         body { font-family: Arial, sans-serif; background-color: #f4f4f4; }
         h2 { color: #4682b4; }
@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-    <h2>Colores (Actualizado)</h2>
+    <h2>Colores</h2>
     <div>
         <?php
         $colores = ["Rojo", "Verde", "Azul", "Amarillo", "Naranja"];

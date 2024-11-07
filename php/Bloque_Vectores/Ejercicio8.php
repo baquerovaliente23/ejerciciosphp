@@ -12,7 +12,7 @@
     </style>
 </head>
 <body>
-    <h2>Países y Capitales (Actualizado)</h2>
+    <h2>Países y Capitales</h2>
     <table>
         <tr><th>País</th><th>Capital</th></tr>
         <?php

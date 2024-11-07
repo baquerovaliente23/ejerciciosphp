@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Deportes Ordenados</title>
+    <title>Deportes</title>
     <style>
         body { font-family: Arial, sans-serif; background-color: #f0f0f5; }
         h2 { color: #006400; }
@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <h2>Deportes Ordenados</h2>
+    <h2>Deportes</h2>
     <table>
         <tr><th>Deporte</th></tr>
         <?php

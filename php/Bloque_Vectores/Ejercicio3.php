@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Animales Modificados</title>
+    <title>Animales</title>
     <style>
         body { font-family: Arial, sans-serif; background-color: #f9f7f6; }
         h2 { color: #8b4513; }
@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <h2>Lista de Animales (Modificado)</h2>
+    <h2>Lista de Animales</h2>
     <table>
         <tr><th>Animal</th></tr>
         <?php
